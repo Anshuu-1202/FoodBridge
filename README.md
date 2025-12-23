@@ -48,18 +48,5 @@
 - TensorFlow  
 - Scikit-learn  
 
----
 
-## 🚀 Getting Started
-
-### ✅ Prerequisites
-- [Node.js](https://nodejs.org/) v16+
-- [Python](https://www.python.org/) 3.8+
-- [Firebase](https://firebase.google.com/) account with Firestore enabled
-
-### 🔧 Setup Instructions
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/foodbridge.git
-   cd foodbridge
+   
